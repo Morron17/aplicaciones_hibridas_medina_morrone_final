@@ -1,0 +1,32 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node --watch index.js"
+  },
+  "author": "Santiago",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "express-validator": "^7.3.0",
+    "jsonwebtoken": "^9.0.2",
+    "moongose": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Santiago9111/aplicaciones_hibridas_medina_morrone_tp1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Santiago9111/aplicaciones_hibridas_medina_morrone_tp1/issues"
+  },
+  "homepage": "https://github.com/Santiago9111/aplicaciones_hibridas_medina_morrone_tp1#readme",
+  "description": ""
+}
