@@ -1,5 +1,0 @@
-Link de gitHub: https://github.com/Morron17/aplicaciones_hibridas_medina_morrone_final.git
-.env: PORT=5000
-URI_DB=mongodb+srv://santiago:thelastofus13@cluster0.mw8fthu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-JWT_SECRET=supersecreto123
-JWT_EXPIRES_IN=8h
